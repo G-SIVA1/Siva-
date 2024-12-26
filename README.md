@@ -33,7 +33,7 @@
     <section id="projects">
         <h2>Projects</h2>
         <div class="project">
-            <h3>Project 1 : BANK MANAGEMENT SYSTEM</h3>
+            <h3>Project 1 : BANK ACCOUNT MANAGMENT SYSTEM</h3>
             <p>A Bank Management System is software designed to streamline and automate various banking operations, such as account handling, transactions, loans, and customer services. It enhances efficiency, ensures security, and provides better customer service, making banking processes more reliable and effective.</p>
         </div>
         <div class="project">
